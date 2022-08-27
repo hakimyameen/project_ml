@@ -1,4 +1,5 @@
 '''
+Different types of methods
 Setter and getter method:
 '''
 '''
